@@ -1,0 +1,15 @@
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\EnqueteCSharp.csproj.AssemblyReference.cache
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\EnqueteCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\EnqueteCSharp.AssemblyInfoInputs.cache
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\EnqueteCSharp.AssemblyInfo.cs
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\EnqueteCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ander\workspace\EnqueteCSharp\bin\Debug\net6.0\EnqueteCSharp.exe
+C:\Users\ander\workspace\EnqueteCSharp\bin\Debug\net6.0\EnqueteCSharp.deps.json
+C:\Users\ander\workspace\EnqueteCSharp\bin\Debug\net6.0\EnqueteCSharp.runtimeconfig.json
+C:\Users\ander\workspace\EnqueteCSharp\bin\Debug\net6.0\EnqueteCSharp.dll
+C:\Users\ander\workspace\EnqueteCSharp\bin\Debug\net6.0\EnqueteCSharp.pdb
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\EnqueteCSharp.dll
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\refint\EnqueteCSharp.dll
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\EnqueteCSharp.pdb
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\EnqueteCSharp.genruntimeconfig.cache
+C:\Users\ander\workspace\EnqueteCSharp\obj\Debug\net6.0\ref\EnqueteCSharp.dll
